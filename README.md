@@ -1,0 +1,2 @@
+# Directory-Management-System-Project
+In Directory management system project, I am going to implement a directory that has specific hierarchy chosen by me, I will try to perform some queries on the directory that has been populated, and link everything using server system where will have some servers that will have the mission to process those queries depending on the process time so we can have an idea about multiple concurrent queries and how to load queries into servers.
