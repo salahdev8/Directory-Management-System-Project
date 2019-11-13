@@ -1,0 +1,11 @@
+10,business
+Microsoft,tchenology,1-176-320-8624,aliquet.diam@mollisInteger.co.uk,www.microsoft.com,"P.O. Box 445, 4433 Sed Ave",Gaithersburg,MD,47677
+Apple,tchenology,1-203-849-9853,commodo.ipsum@Mauris.com,www.apple.com,"P.O. Box 444, 1491 Scelerisque Av.",Fort Wayne,IN,53759
+Google,research engine,1-370-203-5036,lobortis.risus@augue.net,www.google.com,"P.O. Box 519, 2186 Posuere Rd.",Gillette,Wyoming,29811
+Facebook,social,1-287-228-3362,odio.sagittis@elitsed.org,www.facebook.net,9138 Massa. Avenue,Hillsboro,Oregon,41767
+Youtube,video-sharing,1-816-855-3613,Cum.sociis.natoque@volutpat.org,www.youtube.ma,Ap #592-1099 In Rd.,New Haven,Connecticut,65296
+Ebay,e-commerce,1-203-343-2290,Donec.feugiat.metus@aliquameros.org,www.ebay.fr,"P.O. Box 795, 2700 Vel Avenue",Portland,Maine,54555
+Amazon,e-commerce,1-203-781-0765,turpis@accumsaninterdumlibero.edu,www.amazon.com,"4924 A, Street",St. Petersburg,Florida,61018
+Twitter,social,1-176-320-8624,aliquet.diam@mollisInteger.co.uk,www.twitter.net,"P.O. Box 445, 4433 Sed Ave",Gaithersburg,CT,47677
+Europsort,sport,1-203-320-8624,aliquet.diam@mollisInteger.co.uk,www.europosrt.fr,"P.O. Box 445, 4433 Sed Ave",Gaithersburg,NY,47677
+Stackoverflow,programming,1-176-320-8624,aliquet.diam@mollisInteger.org,www.stackoverflow.com,"P.O. Box 445, 4433 Sed Ave",Gaithersburg,CT,47677
